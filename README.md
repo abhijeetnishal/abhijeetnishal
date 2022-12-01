@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms (Problem Solving)**
 
-- 📫 How to reach me **abhijeetkumar7565@gmail.com**
+- 📫 How to reach me **https://linkedin.com/in/abhijeetkumar7565**
 
 - 👨‍💻 All of my projects are available at [PortfolioSite](https://abhijeetportfoliosite.netlify.app/)
 
