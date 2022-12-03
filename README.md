@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [PortfolioSite](https://abhijeetportfoliosite.netlify.app/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PyqJ4MBmN-PoBxOmX-5oLh5QSB8s4lB5/view?usp=sharing)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PyqJ4MBmN-PoBxOmX-5oLh5QSB8s4lB5/view?usp=sharing) -->
 
 </br>
 <h3 align="left">Connect with me:</h3>
