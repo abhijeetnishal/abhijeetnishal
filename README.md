@@ -5,9 +5,9 @@
 
 <p align="left"> <img align="right" width="400" height="240" src="https://github.com/abhijeetnishal/abhijeetnishal/blob/master/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
 
-- 🔭 I have worked on [Netflix Clone](https://abhijeetnishal.github.io/netflix-page/index1.html)
+- 🔭 I have worked on [Backend REST API](https://github.com/abhijeetnishal/Backend-Rest-API)
 
-- 🌱 I’m currently learning **ReactJS | NodeJS | ExpressJS | MongoDB**
+- 🌱 I’m currently learning **NodeJS | ExpressJS | MongoDB | ReactJS**
 
 - 💬 Ask me about **Data Structures and Algorithms (Problem Solving)**
 
