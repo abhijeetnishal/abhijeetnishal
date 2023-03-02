@@ -1,9 +1,9 @@
-![logo](https://github.com/abhijeetnishal/abhijeetnishal/blob/master/kindpng_3706079.png)
+![logo]()
 
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-<p align="left"> <img align="right" width="400" height="240" src="https://github.com/abhijeetnishal/abhijeetnishal/blob/master/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
+<p align="left"> <img align="right" width="400" height="240" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" /> </p>
 
 - 🔭 I have worked on [URL Shortener Website](https://urlsrtner.vercel.app/)
 
