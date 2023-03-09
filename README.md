@@ -8,7 +8,7 @@
 
 - 🔭 I have worked on [URL Shortener Website](https://urlsrtner.vercel.app/)
 
-- 🌱 I’m currently learning **NodeJS | ReactJS**
+- 🌱 I’m currently learning **NodeJS | ReactJS | ExpressJS**
 
 - 📖 Current interests: Full-stack development
 
