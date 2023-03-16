@@ -6,7 +6,7 @@
 <p align="left"> <img align="right" width="400" height="240" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" /> </p>
 
 
-- 🔭 I have worked on [URL Shortener Website](https://urlsrtner.vercel.app/)
+- 🔭 I have worked on [URL Shortener Website](https://urlshrtner.vercel.app/)
 
 - 🌱 I’m currently learning **NodeJS | ReactJS | ExpressJS**
 
