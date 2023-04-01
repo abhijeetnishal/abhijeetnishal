@@ -13,7 +13,7 @@
 - 📖 Current interests: Full-stack development
 
 - 👨‍💻 All of my projects are available at [PortfolioSite](https://abhijeetportfoliosite.netlify.app/)
-- **If you think your users are idiots, only idiots will use it.** - *Linus Torvalds*
+- **If you think your users are idiots, only idiots will use it.**
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PyqJ4MBmN-PoBxOmX-5oLh5QSB8s4lB5/view?usp=sharing) -->
 
