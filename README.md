@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
 <h3 align="center">I'm a Tech Enthusiast!!</h3>
 
-<p align="left"> <img align="right" width="400" height="240" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" /> </p>
+<p align="left"> <img align="right" width="380" height="240" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" /> </p>
 
 
 - 🔭 I have worked on [URL Shortener Website](https://urlsrtner.vercel.app/)
