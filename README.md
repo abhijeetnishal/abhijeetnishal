@@ -8,7 +8,7 @@
 
 - 🔭 I have worked on [PasswordManager Application](https://mypasswordmanager.vercel.app/)
 
-- 🌱 I’m currently learning **NodeJS | ReactJS | ExpressJS**
+- 🌱 I’m currently learning **JavaScript | NodeJS | ReactJS | ExpressJS**
 
 - 📖 Current interests: Full-stack development
 
