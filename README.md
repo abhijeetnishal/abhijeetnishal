@@ -8,7 +8,7 @@
 
 - 🔭 I have worked on [PasswordManager Application](https://mypasswordmanager.vercel.app/)
 
-- 🌱 I’m currently learning **TypeScript | Nextjs**
+- 🌱 I’m currently learning **Everything**
 
 - 📖 Current interests: Full-stack development
 
