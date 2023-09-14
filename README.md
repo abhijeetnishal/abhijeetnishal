@@ -6,8 +6,6 @@
 <p align="left"> <img align="right" width="380" height="240" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" /> </p>
 
 
-- 🔭 I have worked on [PasswordManager Application](https://mypasswordmanager.vercel.app/)
-
 - 🌱 I’m currently learning **Everything**
 
 - 📖 Current interests: Full-stack Development
