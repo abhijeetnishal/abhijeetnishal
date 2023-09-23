@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 📖 Current interests: Full-stack Development
+- 📖 Current interests: Backend and Cloud/DevOps
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abhijeetportfolio.vercel.app/)
 - **You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.**
