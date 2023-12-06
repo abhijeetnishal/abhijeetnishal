@@ -15,12 +15,14 @@
 - **You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.**
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PyqJ4MBmN-PoBxOmX-5oLh5QSB8s4lB5/view?usp=sharing) -->
-
+<br>
 
 ## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeetkumar7565/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhijeetkumar7565) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhijeet_tiwary__) 
 
+<br>
 
 ## Tech Stack
 
