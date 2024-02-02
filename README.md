@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 📖 Current interests: Cloud/DevOps and AI
+- 📖 Current interests: Cloud/DevOps
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abhijeetportfolio.vercel.app/)
 
