@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 📖 Current interests: Blockchain 
+- 📖 Current interests: AI | Blockchain 
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abhijeetportfolio.vercel.app/)
 
